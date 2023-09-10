@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### Tasks Implemented
+Basic Homepage Layout used as per Design given
+Tabs for Characters and Comics
+
+
+### Tech Stack used
+styled components 
+ReactJS (create-react-app)
+CSS
+
+### Local Installation
+Use gh repo clone VedDalvi/BlueSkript_Assignment-2 in gitCLI (terminal) to install a clone of GitHub Repository
+
+or 
+https://github.com/VedDalvi/BlueSkript_Assignment-2/archive/refs/heads/master.zip to download a zip file of the same
+
+
+
+### Resources used/referred
+https://react.school/ui/tabs
+https://www.figma.com/file/bnByc3Lz6GLUaIJowUwxKF/BlueSkript-(Frontend)?type=design&node-id=216-110&mode=design&t=Ac4pq2uGufxnMpXZ-0
+
